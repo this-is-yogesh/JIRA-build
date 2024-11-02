@@ -1,3 +1,9 @@
+import { Accordion } from "@/components/ui/accordion";
+
 export default function Home() {
-  return <div>hello</div>;
+
+  let hello;
+  return (<div>
+    <h1 className="bg-gray-600">hi</h1>
+</div>);
 }
